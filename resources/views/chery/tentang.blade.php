@@ -22,7 +22,7 @@
                 </h1>
 
                 <p class="lead text-light mb-0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    
                     Kami hadir untuk membantu Anda menemukan kendaraan yang
                     sesuai dengan kebutuhan dan gaya hidup.
                 </p>
@@ -70,9 +70,8 @@
                 </h2>
 
                 <p class="text-secondary">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                  
+                    
                 </p>
 
                 <p class="text-secondary">
@@ -165,8 +164,7 @@
                         </h5>
 
                         <p class="text-secondary mb-0">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit.
+                            Pilihan mobil berkualitas sesuai kebutuhan dan gaya hidup Anda.
                         </p>
 
                     </div>
@@ -190,8 +188,7 @@
                         </h5>
 
                         <p class="text-secondary mb-0">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit.
+                            Siap membantu dengan informasi dan solusi terbaik untuk Anda.
                         </p>
 
                     </div>
@@ -215,8 +212,7 @@
                         </h5>
 
                         <p class="text-secondary mb-0">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit.
+                            Proses mudah, cepat, ramah, dan mengutamakan kepuasan pelanggan.
                         </p>
 
                     </div>
@@ -254,8 +250,7 @@
                         </h3>
 
                         <p class="text-secondary mb-0">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit. Kami ingin menjadi partner
+                             Kami ingin menjadi partner
                             terpercaya dalam memenuhi kebutuhan kendaraan.
                         </p>
 
@@ -280,8 +275,7 @@
                         </h3>
 
                         <p class="text-secondary mb-0">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit. Kami memberikan informasi,
+                             Kami memberikan informasi,
                             konsultasi, dan pelayanan secara profesional.
                         </p>
 

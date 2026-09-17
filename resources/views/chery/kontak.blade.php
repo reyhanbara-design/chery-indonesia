@@ -46,7 +46,7 @@
                 </h2>
 
                 <p class="text-secondary">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    
                     Silakan hubungi kami untuk mendapatkan informasi lebih
                     lanjut mengenai produk Chery.
                 </p>
@@ -63,7 +63,7 @@
                         </h6>
 
                         <p class="text-secondary mb-0">
-                            Lorem ipsum, Indonesia
+                             Indonesia
                         </p>
                     </div>
 

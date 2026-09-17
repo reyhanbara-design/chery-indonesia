@@ -234,8 +234,7 @@
                         </h4>
 
                         <p class="text-secondary">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit.
+                            Tampil stylish, berkendara penuh percaya diri. OMODA 5 hadir dengan desain futuristik, teknologi modern, dan kenyamanan premium untuk gaya hidup Anda.
                         </p>
 
                         <a href="{{ route('chery.mobil.omoda5') }}"
@@ -268,8 +267,7 @@
                         </h4>
 
                         <p class="text-secondary">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit.
+                            SUV premium untuk perjalanan istimewa bersama keluarga. Tiggo 8 Pro menawarkan kabin luas, kenyamanan berkelas, dan teknologi canggih di setiap perjalanan.
                         </p>
 
                         <a href="{{ route('chery.mobil.tiggo8') }}"
@@ -324,8 +322,7 @@
                         </h5>
 
                         <p class="text-secondary">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit.
+                            Dapatkan harga terbaik untuk mobil impian Anda!
                         </p>
 
                     </div>
@@ -347,8 +344,7 @@
                         </h5>
 
                         <p class="text-secondary">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit.
+                            Pilihan cicilan fleksibel yang disesuaikan dengan kebutuhan Anda.
                         </p>
 
                     </div>
@@ -370,8 +366,7 @@
                         </h5>
 
                         <p class="text-secondary">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit.
+                            Nikmati bonus menarik dan keuntungan spesial setiap pembelian!
                         </p>
 
                     </div>
@@ -409,7 +404,7 @@
             </h2>
 
             <p class="text-muted">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Kepuasan pelanggan adalah prioritas kami. Dengarkan pengalaman mereka dan temukan alasan mengapa Chery menjadi pilihan untuk menemani setiap perjalanan.
             </p>
         </div>
 
@@ -431,8 +426,7 @@
                                 </div>
 
                                 <p class="text-muted fst-italic">
-                                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    Chery memberikan pengalaman berkendara yang nyaman,
+                                    "Chery memberikan pengalaman berkendara yang nyaman,
                                     modern, dan menyenangkan."
                                 </p>
 
@@ -461,9 +455,9 @@
                                     ★ ★ ★ ★ ★
                                 </div>
 
+                                
                                 <p class="text-muted fst-italic">
-                                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    Desain mobil terlihat premium dan fitur yang tersedia
+                                "Desain mobil terlihat premium dan fitur yang tersedia
                                     sangat membantu aktivitas sehari-hari."
                                 </p>
 
@@ -493,8 +487,7 @@
                                 </div>
 
                                 <p class="text-muted fst-italic">
-                                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    Pelayanan sales ramah dan proses konsultasi kendaraan
+                                    "Pelayanan sales ramah dan proses konsultasi kendaraan
                                     berlangsung dengan mudah."
                                 </p>
 
@@ -707,307 +700,6 @@
 
     </div>
 
-</section>
-{{-- TESTIMONI --}}
-<section class="py-5 bg-light">
-    <div class="container">
-
-        <div class="text-center mb-5">
-            <span class="badge bg-danger mb-3">
-                TESTIMONI PELANGGAN
-            </span>
-
-            <h2 class="fw-bold">
-                Pengalaman Pelanggan Bersama Mitsubishi
-            </h2>
-
-            <p class="text-muted">
-                Dengarkan pengalaman pelanggan setelah menggunakan kendaraan Mitsubishi.
-            </p>
-        </div>
-
-        <div id="mitsubishiTestimonialCarousel"
-             class="carousel slide"
-             data-bs-ride="carousel">
-
-            <div class="carousel-inner">
-
-                <div class="carousel-item active">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-
-                            <div class="card border-0 shadow-sm rounded-4 p-4 p-md-5 text-center">
-
-                                <div class="mb-3 text-warning fs-4">
-                                    ★ ★ ★ ★ ★
-                                </div>
-
-                                <p class="text-muted fst-italic">
-                                    "Mitsubishi Xpander memiliki kabin yang nyaman
-                                    dan cocok digunakan bersama keluarga."
-                                </p>
-
-                                <h5 class="fw-bold mb-1">
-                                    Ahmad Fauzi
-                                </h5>
-
-                                <small class="text-muted">
-                                    Pelanggan Mitsubishi Xpander
-                                </small>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="carousel-item">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-
-                            <div class="card border-0 shadow-sm rounded-4 p-4 p-md-5 text-center">
-
-                                <div class="mb-3 text-warning fs-4">
-                                    ★ ★ ★ ★ ★
-                                </div>
-
-                                <p class="text-muted fst-italic">
-                                    "Desain Mitsubishi Pajero Sport terlihat gagah,
-                                    nyaman digunakan untuk perjalanan jauh,
-                                    dan memiliki fitur yang menarik."
-                                </p>
-
-                                <h5 class="fw-bold mb-1">
-                                    Rina Permata
-                                </h5>
-
-                                <small class="text-muted">
-                                    Pelanggan Mitsubishi Pajero Sport
-                                </small>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="carousel-item">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-
-                            <div class="card border-0 shadow-sm rounded-4 p-4 p-md-5 text-center">
-
-                                <div class="mb-3 text-warning fs-4">
-                                    ★ ★ ★ ★ ★
-                                </div>
-
-                                <p class="text-muted fst-italic">
-                                    "Pelayanan sales sangat membantu dalam memilih
-                                    kendaraan yang sesuai dengan kebutuhan saya."
-                                </p>
-
-                                <h5 class="fw-bold mb-1">
-                                    Dimas Pratama
-                                </h5>
-
-                                <small class="text-muted">
-                                    Pelanggan Mitsubishi
-                                </small>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <button class="carousel-control-prev"
-                    type="button"
-                    data-bs-target="#mitsubishiTestimonialCarousel"
-                    data-bs-slide="prev">
-
-                <span class="carousel-control-prev-icon bg-danger rounded-circle p-3"></span>
-                <span class="visually-hidden">Sebelumnya</span>
-
-            </button>
-
-            <button class="carousel-control-next"
-                    type="button"
-                    data-bs-target="#mitsubishiTestimonialCarousel"
-                    data-bs-slide="next">
-
-                <span class="carousel-control-next-icon bg-danger rounded-circle p-3"></span>
-                <span class="visually-hidden">Berikutnya</span>
-
-            </button>
-
-        </div>
-
-    </div>
-</section>
-{{-- FAQ --}}
-<section class="py-5">
-    <div class="container">
-
-        <div class="text-center mb-5">
-            <span class="badge bg-danger mb-3">
-                FAQ
-            </span>
-
-            <h2 class="fw-bold">
-                Pertanyaan yang Sering Diajukan
-            </h2>
-
-            <p class="text-muted">
-                Informasi seputar pembelian dan konsultasi kendaraan Mitsubishi.
-            </p>
-        </div>
-
-        <div class="row justify-content-center">
-            <div class="col-lg-9">
-
-                <div class="accordion" id="mitsubishiFaqAccordion">
-
-                    <div class="accordion-item border-0 shadow-sm rounded-3 mb-3">
-
-                        <h2 class="accordion-header">
-                            <button class="accordion-button fw-semibold rounded-3"
-                                    type="button"
-                                    data-bs-toggle="collapse"
-                                    data-bs-target="#mitsubishiFaqOne">
-
-                                Apakah tersedia layanan Test Drive Mitsubishi?
-
-                            </button>
-                        </h2>
-
-                        <div id="mitsubishiFaqOne"
-                             class="accordion-collapse collapse show"
-                             data-bs-parent="#mitsubishiFaqAccordion">
-
-                            <div class="accordion-body text-muted">
-                                Ya, pelanggan dapat menghubungi sales untuk
-                                menentukan jadwal Test Drive Mitsubishi.
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="accordion-item border-0 shadow-sm rounded-3 mb-3">
-
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed fw-semibold rounded-3"
-                                    type="button"
-                                    data-bs-toggle="collapse"
-                                    data-bs-target="#mitsubishiFaqTwo">
-
-                                Bagaimana cara mengetahui harga kendaraan?
-
-                            </button>
-                        </h2>
-
-                        <div id="mitsubishiFaqTwo"
-                             class="accordion-collapse collapse"
-                             data-bs-parent="#mitsubishiFaqAccordion">
-
-                            <div class="accordion-body text-muted">
-                                Hubungi sales melalui WhatsApp atau halaman
-                                Kontak untuk memperoleh informasi harga dan promo.
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="accordion-item border-0 shadow-sm rounded-3 mb-3">
-
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed fw-semibold rounded-3"
-                                    type="button"
-                                    data-bs-toggle="collapse"
-                                    data-bs-target="#mitsubishiFaqThree">
-
-                                Apakah tersedia pilihan tipe kendaraan?
-
-                            </button>
-                        </h2>
-
-                        <div id="mitsubishiFaqThree"
-                             class="accordion-collapse collapse"
-                             data-bs-parent="#mitsubishiFaqAccordion">
-
-                            <div class="accordion-body text-muted">
-                                Tersedia berbagai pilihan tipe kendaraan.
-                                Sales dapat membantu menjelaskan perbedaan fitur
-                                dan spesifikasi setiap tipe.
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="accordion-item border-0 shadow-sm rounded-3 mb-3">
-
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed fw-semibold rounded-3"
-                                    type="button"
-                                    data-bs-toggle="collapse"
-                                    data-bs-target="#mitsubishiFaqFour">
-
-                                Apakah bisa melakukan konsultasi sebelum membeli?
-
-                            </button>
-                        </h2>
-
-                        <div id="mitsubishiFaqFour"
-                             class="accordion-collapse collapse"
-                             data-bs-parent="#mitsubishiFaqAccordion">
-
-                            <div class="accordion-body text-muted">
-                                Tentu. Pelanggan dapat berkonsultasi mengenai
-                                kebutuhan kendaraan, fitur, tipe mobil,
-                                dan simulasi pembelian.
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="accordion-item border-0 shadow-sm rounded-3">
-
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed fw-semibold rounded-3"
-                                    type="button"
-                                    data-bs-toggle="collapse"
-                                    data-bs-target="#mitsubishiFaqFive">
-
-                                Bagaimana cara menghubungi sales Mitsubishi?
-
-                            </button>
-                        </h2>
-
-                        <div id="mitsubishiFaqFive"
-                             class="accordion-collapse collapse"
-                             data-bs-parent="#mitsubishiFaqAccordion">
-
-                            <div class="accordion-body text-muted">
-                                Klik tombol WhatsApp atau buka halaman Kontak
-                                untuk mengirimkan pertanyaan kepada sales Mitsubishi.
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-
-    </div>
-    
 </section>
 
 <!-- CTA -->
