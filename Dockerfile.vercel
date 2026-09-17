@@ -53,6 +53,8 @@ COPY --from=composer /app/vendor ./vendor
 
 # Copy application
 COPY . .
+# Copy Caddy configuration
+COPY Caddyfile /etc/caddy/Caddyfile
 
 # Copy Vite production build
 COPY --from=frontend /app/public/build ./public/build
