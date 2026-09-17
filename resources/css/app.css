@@ -5041,3 +5041,174 @@ footer a {
     }
 
 }
+
+/* =========================================================
+   CHERY NAVBAR - FINAL OVERRIDE
+   Logo normal + mobile navbar putih
+========================================================= */
+
+/* ---------- LOGO ---------- */
+
+.navbar-brand {
+    display: flex !important;
+    align-items: center !important;
+    height: 60px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.navbar-brand img {
+    width: 115px !important;
+    height: auto !important;
+    max-width: 115px !important;
+    max-height: 48px !important;
+    object-fit: contain !important;
+    display: block !important;
+}
+
+
+/* ---------- NAVBAR DESKTOP ---------- */
+
+.navbar {
+    min-height: 70px !important;
+    z-index: 9999 !important;
+}
+
+.navbar .container {
+    min-height: 70px !important;
+}
+
+.navbar-nav {
+    align-items: center !important;
+}
+
+
+/* ---------- MOBILE ---------- */
+
+@media (max-width: 991.98px) {
+
+    .navbar {
+        min-height: 70px !important;
+        background: transparent !important;
+    }
+
+    .navbar .container {
+        min-height: 70px !important;
+    }
+
+    /* Logo mobile */
+    .navbar-brand {
+        height: 60px !important;
+        z-index: 10001 !important;
+    }
+
+    .navbar-brand img {
+        width: 95px !important;
+        max-width: 95px !important;
+        max-height: 42px !important;
+        height: auto !important;
+    }
+
+
+    /* Tombol hamburger */
+    .navbar-toggler {
+        width: 52px !important;
+        height: 48px !important;
+
+        padding: 8px 10px !important;
+
+        background: #ffffff !important;
+        border: 2px solid #333333 !important;
+        border-radius: 12px !important;
+
+        z-index: 10001 !important;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    .navbar-toggler-icon {
+        filter: brightness(0.2) !important;
+    }
+
+
+    /* MENU MOBILE */
+    .navbar-collapse {
+        position: absolute !important;
+
+        top: 70px !important;
+        left: 0 !important;
+        right: 0 !important;
+
+        width: 100% !important;
+
+        background: #ffffff !important;
+
+        padding: 20px !important;
+
+        border-radius: 0 0 18px 18px !important;
+
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15) !important;
+
+        z-index: 10000 !important;
+    }
+
+
+    /* Menu menjadi vertikal */
+    .navbar-collapse .navbar-nav {
+        width: 100% !important;
+
+        display: flex !important;
+        flex-direction: column !important;
+
+        align-items: stretch !important;
+        gap: 5px !important;
+    }
+
+
+    /* Link menu */
+    .navbar-collapse .nav-link {
+        display: block !important;
+
+        width: 100% !important;
+
+        padding: 13px 15px !important;
+
+        color: #222222 !important;
+
+        font-size: 16px !important;
+        font-weight: 600 !important;
+
+        text-decoration: none !important;
+
+        border-radius: 8px !important;
+    }
+
+    .navbar-collapse .nav-link:hover {
+        background: #f5f5f5 !important;
+        color: #e52d3b !important;
+    }
+
+
+    /* Tombol kontak */
+    .navbar-collapse .btn,
+    .navbar-collapse .nav-link.btn {
+        display: block !important;
+
+        width: 100% !important;
+
+        margin-top: 8px !important;
+
+        padding: 12px 20px !important;
+
+        text-align: center !important;
+
+        color: #ffffff !important;
+        background: #e52d3b !important;
+
+        border: none !important;
+        border-radius: 30px !important;
+    }
+
+}
